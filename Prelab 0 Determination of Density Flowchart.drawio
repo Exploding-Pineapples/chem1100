@@ -1,0 +1,136 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.6">
+  <diagram name="Page-1" id="UTVQJXHm0LGZB2g9IiKT">
+    <mxGraphModel dx="1426" dy="823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2s-tYdBeN-I9yYLAUSD5-8" edge="1" parent="1" source="2s-tYdBeN-I9yYLAUSD5-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="2s-tYdBeN-I9yYLAUSD5-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2s-tYdBeN-I9yYLAUSD5-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;p class=&quot;MsoNormal&quot;&gt;Retrieve unknown metal&lt;/p&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="170" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="2s-tYdBeN-I9yYLAUSD5-10" edge="1" parent="1" source="2s-tYdBeN-I9yYLAUSD5-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="2s-tYdBeN-I9yYLAUSD5-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2s-tYdBeN-I9yYLAUSD5-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Measure physical characteristics to identify&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="170" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="2s-tYdBeN-I9yYLAUSD5-11" edge="1" parent="1" source="2s-tYdBeN-I9yYLAUSD5-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="2s-tYdBeN-I9yYLAUSD5-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="230" y="435" />
+              <mxPoint x="130" y="435" />
+              <mxPoint x="130" y="490" />
+            </Array>
+            <mxPoint x="180" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2s-tYdBeN-I9yYLAUSD5-16" connectable="0" parent="2s-tYdBeN-I9yYLAUSD5-11" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Cylindrical Sample" vertex="1">
+          <mxGeometry relative="1" x="0.0167" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2s-tYdBeN-I9yYLAUSD5-18" edge="1" parent="1" source="2s-tYdBeN-I9yYLAUSD5-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="2s-tYdBeN-I9yYLAUSD5-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2s-tYdBeN-I9yYLAUSD5-19" connectable="0" parent="2s-tYdBeN-I9yYLAUSD5-18" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Rectangular Sample" vertex="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2s-tYdBeN-I9yYLAUSD5-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Record mass with analytical scale" vertex="1">
+          <mxGeometry height="60" width="120" x="170" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="2s-tYdBeN-I9yYLAUSD5-20" edge="1" parent="1" source="2s-tYdBeN-I9yYLAUSD5-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2s-tYdBeN-I9yYLAUSD5-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Measure diameter and height" vertex="1">
+          <mxGeometry height="60" width="120" x="60" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="2s-tYdBeN-I9yYLAUSD5-21" edge="1" parent="1" source="2s-tYdBeN-I9yYLAUSD5-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2s-tYdBeN-I9yYLAUSD5-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Measure length width and height" vertex="1">
+          <mxGeometry height="60" width="120" x="290" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="2s-tYdBeN-I9yYLAUSD5-24" edge="1" parent="1" source="2s-tYdBeN-I9yYLAUSD5-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2s-tYdBeN-I9yYLAUSD5-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Add 15 mL of water to 25 mL graduated cylinder" vertex="1">
+          <mxGeometry height="60" width="120" x="60" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="2s-tYdBeN-I9yYLAUSD5-25" edge="1" parent="1" source="2s-tYdBeN-I9yYLAUSD5-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2s-tYdBeN-I9yYLAUSD5-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Add 35 mL of water to the 50 mL graduated cylinder" vertex="1">
+          <mxGeometry height="60" width="120" x="290" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="2s-tYdBeN-I9yYLAUSD5-43" edge="1" parent="1" source="2s-tYdBeN-I9yYLAUSD5-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="2s-tYdBeN-I9yYLAUSD5-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2s-tYdBeN-I9yYLAUSD5-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Measure total water volume to 0.1 mL, calculated displaced amount" vertex="1">
+          <mxGeometry height="60" width="120" x="160" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="2s-tYdBeN-I9yYLAUSD5-30" edge="1" parent="1" source="2s-tYdBeN-I9yYLAUSD5-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="2s-tYdBeN-I9yYLAUSD5-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2s-tYdBeN-I9yYLAUSD5-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Mass the 25mL graduated cylinder" vertex="1">
+          <mxGeometry height="60" width="120" x="570" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="2s-tYdBeN-I9yYLAUSD5-36" edge="1" parent="1" source="2s-tYdBeN-I9yYLAUSD5-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="2s-tYdBeN-I9yYLAUSD5-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2s-tYdBeN-I9yYLAUSD5-37" edge="1" parent="1" source="2s-tYdBeN-I9yYLAUSD5-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="2s-tYdBeN-I9yYLAUSD5-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2s-tYdBeN-I9yYLAUSD5-38" connectable="0" parent="2s-tYdBeN-I9yYLAUSD5-37" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Is there 20 mL of water in the cylinder?" vertex="1">
+          <mxGeometry relative="1" x="-0.7199" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2s-tYdBeN-I9yYLAUSD5-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Add 5 mL water to the graduated cylinder, mass to nearest 0.0001g and record it" vertex="1">
+          <mxGeometry height="110" width="170" x="570" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="2s-tYdBeN-I9yYLAUSD5-39" edge="1" parent="1" source="2s-tYdBeN-I9yYLAUSD5-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="2s-tYdBeN-I9yYLAUSD5-28">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="510" y="440" />
+              <mxPoint x="510" y="380" />
+              <mxPoint x="550" y="380" />
+              <mxPoint x="550" y="285" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2s-tYdBeN-I9yYLAUSD5-34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="No" vertex="1">
+          <mxGeometry height="40" width="90" x="540" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="2s-tYdBeN-I9yYLAUSD5-40" edge="1" parent="1" source="2s-tYdBeN-I9yYLAUSD5-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="715" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2s-tYdBeN-I9yYLAUSD5-35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Yes" vertex="1">
+          <mxGeometry height="40" width="90" x="670" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="2s-tYdBeN-I9yYLAUSD5-41" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Done, clean up" vertex="1">
+          <mxGeometry height="60" width="120" x="655" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="2s-tYdBeN-I9yYLAUSD5-44" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Part 2" vertex="1">
+          <mxGeometry height="30" width="60" x="610" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2s-tYdBeN-I9yYLAUSD5-45" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Part 1" vertex="1">
+          <mxGeometry height="30" width="60" x="180" y="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
