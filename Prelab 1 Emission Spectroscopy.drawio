@@ -1,9 +1,39 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.6">
   <diagram name="Page-1" id="M3mLZrcnTMMsqPwtXeLV">
-    <mxGraphModel>
+    <mxGraphModel dx="786" dy="544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="TmIaGTksqtbqn8VvQJ5I-3" edge="1" parent="1" source="TmIaGTksqtbqn8VvQJ5I-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="TmIaGTksqtbqn8VvQJ5I-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TmIaGTksqtbqn8VvQJ5I-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Move spectroscope slit 0.5m from light" vertex="1">
+          <mxGeometry height="60" width="120" x="100" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TmIaGTksqtbqn8VvQJ5I-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Part A: Spectroscope tutorial" vertex="1">
+          <mxGeometry height="30" width="190" x="70" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TmIaGTksqtbqn8VvQJ5I-5" edge="1" parent="1" source="TmIaGTksqtbqn8VvQJ5I-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="TmIaGTksqtbqn8VvQJ5I-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TmIaGTksqtbqn8VvQJ5I-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Turn the white screen to ~45 deg until you can see" vertex="1">
+          <mxGeometry height="60" width="120" x="100" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="TmIaGTksqtbqn8VvQJ5I-8" edge="1" parent="1" source="TmIaGTksqtbqn8VvQJ5I-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="TmIaGTksqtbqn8VvQJ5I-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TmIaGTksqtbqn8VvQJ5I-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Observe the right inside to make measurements" vertex="1">
+          <mxGeometry height="60" width="120" x="100" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="TmIaGTksqtbqn8VvQJ5I-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Adjust the spectroscope" vertex="1">
+          <mxGeometry height="60" width="120" x="100" y="330" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
